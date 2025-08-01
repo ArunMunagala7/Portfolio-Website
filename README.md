@@ -19,3 +19,14 @@ This repository contains a simple portfolio website built with HTML, CSS, and Ja
 ## Contributing
 
 Feel free to fork this repository and make modifications.
+
+## Hosting
+
+To make the website publicly accessible, you can host it using a static site service such as **GitHub Pages**:
+
+1. Create a new repository on GitHub and push the contents of this project to it.
+2. In the repository settings, enable **GitHub Pages** and choose the root branch.
+3. GitHub will provide a public URL where your portfolio will be available.
+4. Share this link with anyone you want to view your site.
+
+Other hosting providers like Netlify or Vercel work as well&mdash;simply deploy the contents of this folder to the platform of your choice.
